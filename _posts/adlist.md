@@ -1,3 +1,15 @@
+---
+    author: xiao.liang
+    date: 2017-12-13 15:58:35
+    layout: post
+    title: Redis源码分析(数据结构篇)——双向链表(doubly linked list)
+    categories:
+    - Tech
+    tags:
+    - Redis
+---
+
+
 # Redis源码分析(数据结构篇)——双向链表(doubly linked list)
 
 Redis简介（省略了）
