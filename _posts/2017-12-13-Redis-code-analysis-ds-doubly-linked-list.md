@@ -2,13 +2,11 @@
     author: xiao.liang
     date: 2017-12-13
     title: "Redis源码分析(数据结构篇)——双向链表(doubly linked list)"
-    categories: Tech
+    categories: 
+        - Tech
+    tags:
+        - Redis
 ---
-
-
-# Redis源码分析(数据结构篇)——双向链表(doubly linked list)
-
-Redis简介（省略了）
 
 该系列是Redis源码分析的第一部分，主要对Redis的一些数据结构进行解读。注意，这里的数据结构并不是Redis使用层面上的数据结构（string, list, set等），而是支撑这些“数据结构”实现的更加底层的数据结构。
 
