@@ -1,4 +1,4 @@
-# Welcome To My Github Page
+我是小菜鸡一只，正在努力成长中~
 
 梁潇 （Xiao Liang）
 
@@ -8,4 +8,4 @@ VLIS Lab, College of Computer Science, Zhejiang University
 
 Email: lxlxwana@gmail.com
 
-Have Fun~ XD XD.
+Have Fun~ XD
