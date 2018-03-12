@@ -37,9 +37,9 @@ Extra information for course 'Database System'
 4. SQL安全性(4月16日 24点)
 5. 数据库程序设计,图书管理系统(4月30日 24点)
 
-每个实验的大纲以及实验指导参见'lab.md'
+每个实验的大纲以及实验指导参见[lab.md](https://lxlxwana.github.io/dbcourse/2018/03/13/DBCourse-lab-info/)
 
-> 实验5需要验收，请在截止日期(4月30日)前的上机课向我验收。验收流程参见'lab.md'。考虑到验收人数较多，请尽早完成验收，以免因时间不够造成不必要的麻烦。
+> 实验5需要验收，请在截止日期(4月30日)前的上机课向我验收。验收流程参见[lab.md](https://lxlxwana.github.io/dbcourse/2018/03/13/DBCourse-lab-info/)。考虑到验收人数较多，请尽早完成验收，以免因时间不够造成不必要的麻烦。
 
 ### 实验要求
 
