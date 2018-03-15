@@ -19,7 +19,7 @@ Extra information for course 'Database System'
 
 有事请尽量通过微信或者邮件和我联系，如有紧急事件可以直接电话联系我。
 
-> 顺便，对孙老师以及我研究的方向有兴趣的童鞋，欢迎找我咨询，目前我们和阿里多个数据库团队有所合作，研发下一代数据库系统，主要是基于新型硬件的(GPU,FPGA,NVM,RDMA)方向以及AI和DB结合方向~
+> 顺便，对孙老师以及我研究的方向有兴趣的童鞋，欢迎找我咨询，目前我们和阿里多个数据库团队有所合作，研发下一代数据库系统，主要是基于新型硬件的(GPU,FPGA,NVM,RDMA)方向以及AI和DB结合方向，欢迎优秀的本科生一同共事~
 
 ## 作业
 
@@ -37,9 +37,9 @@ Extra information for course 'Database System'
 4. SQL安全性(4月16日 24点)
 5. 数据库程序设计,图书管理系统(4月30日 24点)
 
-每个实验的大纲以及实验指导参见[lab.md](https://lxlxwana.github.io/dbcourse/2018/03/13/DBCourse-lab-info/)
+每个实验的大纲以及实验指导参见[lab](https://lxlxwana.github.io/dbcourse/2018/03/13/DBCourse-lab-info/)
 
-> 实验5需要验收，请在截止日期(4月30日)前的上机课向我验收。验收流程参见[lab.md](https://lxlxwana.github.io/dbcourse/2018/03/13/DBCourse-lab-info/)。考虑到验收人数较多，请尽早完成验收，以免因时间不够造成不必要的麻烦。
+> 实验5需要验收，请在截止日期(4月30日)前的任意一堂上机课向我验收。验收流程参见[lab](https://lxlxwana.github.io/dbcourse/2018/03/13/DBCourse-lab-info/)。考虑到验收人数较多，请尽早完成验收，以免因最后一次上机课人数过多无法完成验收而导致扣分。
 
 ### 实验要求
 
